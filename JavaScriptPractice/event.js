@@ -9,4 +9,4 @@ function blurfunction(params) {
 function key(params) {
     let x=document.getElementById('upper')
     x.value= x.value.toUpperCase();
-}
+}  
